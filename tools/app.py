@@ -30,6 +30,7 @@ def borrar_video(ruta):
 
 def principal():
     
+    print ("hello world")
     return render_template('index.html')
 
 # recibir el url para descargar videos
