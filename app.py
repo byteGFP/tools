@@ -6,7 +6,6 @@ from PyPDF2 import PdfReader
 import pyttsx3
 from PIL import Image
 from rembg import remove
-import io
 import time
 import threading
 
